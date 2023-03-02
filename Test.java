@@ -1,3 +1,6 @@
-This is my first Line By Admin
-This is update by developer
-2nd update by admin
+class Test{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello Prashant");
+	}
+}
